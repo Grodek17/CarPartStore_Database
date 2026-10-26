@@ -1,0 +1,14 @@
+# Local environment and editor files
+.vscode/
+.idea/
+*.user
+*.suo
+
+# SQL Server local database files
+*.mdf
+*.ldf
+*.bak
+
+# OS
+.DS_Store
+Thumbs.db
