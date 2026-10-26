@@ -4,8 +4,6 @@ A relational database designed for an automotive parts store, developed as part 
 
 The project models vehicle compatibility, product catalogues, inventory, customers, orders, and deliveries using **Microsoft SQL Server (T-SQL)**.
 
-**ERD:** [View the Entity Relationship Diagram](assets/erd.pdf)
-
 ## Database Design
 
 The database models several interconnected business processes:
